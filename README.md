@@ -1,1 +1,1 @@
-# P2P_Chat_Twisted
+# P2P_Chat_Twisted  делал без клиентов, так сложнее))
